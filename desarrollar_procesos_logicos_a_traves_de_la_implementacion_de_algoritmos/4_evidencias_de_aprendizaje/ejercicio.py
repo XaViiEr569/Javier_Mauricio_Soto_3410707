@@ -1,0 +1,5 @@
+print("hola mundo")
+num1=input("ingresar un numero")
+num2=input("ingresar un numero")
+res=int(num1)+int(num2)
+print=("la suma entre",num1,"y",num2,"es",res)
